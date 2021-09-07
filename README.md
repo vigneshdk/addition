@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class BiggestNumber 
+public class JavaExample 
 {
     public static void main(String[] args) 
     {
